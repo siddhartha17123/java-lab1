@@ -40,7 +40,7 @@ public class School{
         students.getStudent();
 
         Teachers teachers = new Teachers();
-        teachers.setTeacher("Teacher Sir", 10000, 984123456);
+        teachers.setTeacher("Teacher Sir", 234567, 9816621340);
         teachers.getTeacher();
     }    
 }  
