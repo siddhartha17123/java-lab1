@@ -36,7 +36,7 @@ public class School{
     public static void main(String[] args) 
     {
         Students students = new Students();
-        students.setStudent("Safal Bhandari", 10, 14);
+        students.setStudent("sidhartha gautam", 10, 14);
         students.getStudent();
 
         Teachers teachers = new Teachers();
